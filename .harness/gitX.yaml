@@ -7,7 +7,7 @@ pipeline:
   stages:
     - stage:
         name: s4
-        identifier: s3
+        identifier: s4
         description: ""
         type: Deployment
         spec:
