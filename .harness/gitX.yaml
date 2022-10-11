@@ -6,7 +6,7 @@ pipeline:
   tags: {}
   stages:
     - stage:
-        name: s3
+        name: s4
         identifier: s3
         description: ""
         type: Deployment
