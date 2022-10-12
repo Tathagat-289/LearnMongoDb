@@ -43,3 +43,8 @@ template:
             - AllErrors
           action:
             type: StageRollback
+    variables:
+      - name: abc
+        type: String
+        description: ""
+        value: <+input>
