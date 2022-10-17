@@ -6,7 +6,7 @@ pipeline:
   tags: {}
   stages:
     - stage:
-        name: s5
+        name: s6
         identifier: s4
         description: ""
         type: Deployment
