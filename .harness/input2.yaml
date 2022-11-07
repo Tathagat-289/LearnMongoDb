@@ -1,6 +1,7 @@
 inputSet:
   identifier: "input2"
   name: "input2"
+  tags: {}
   orgIdentifier: "default"
   projectIdentifier: "p1"
   pipeline:
@@ -32,5 +33,4 @@ inputSet:
                           spec:
                             branch: "bb"
           environment:
-            infrastructureDefinitions:
-            - identifier: "inf1"
+            infrastructureDefinitions: "inf1"
