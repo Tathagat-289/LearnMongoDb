@@ -1,6 +1,7 @@
 inputSet:
   identifier: "inline1"
   name: "inline1"
+  tags: {}
   orgIdentifier: "default"
   projectIdentifier: "p1"
   pipeline:
@@ -18,7 +19,7 @@ inputSet:
                   variables:
                   - name: "v1"
                     type: "String"
-                    value: "v1"
+                    value: "v1value"
                   - name: "v2"
                     type: "String"
                     value: "v2"
