@@ -35,3 +35,6 @@ inputSet:
           environment:
             infrastructureDefinitions:
             - identifier: "inf1"
+              inputs:
+                spec:
+                  namespace: "def"
